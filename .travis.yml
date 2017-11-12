@@ -6,4 +6,4 @@ dist: "trusty"
 install:
   - pip install flake8
 script:
-  flake8 .
+  - flake8 .
